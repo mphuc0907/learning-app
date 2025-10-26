@@ -1,21 +1,17 @@
 import Link from 'next/link'
+import { useProgressCtx } from '@/contexts/ProgressContext'
 
-export default function LessonItem(props: {
+export default function LessonItem({ courseId, lesson, current, completed }: {
   courseId: string
-  lesson: {
-    id: string
-    title: string
-    duration: number
-    order: number
-    status?: 'not-started' | 'completed'
-  }
+  lesson: { id: string; title: string; duration: number; order: number }
   current?: boolean
   completed?: boolean
 }) {
-  const { courseId, lesson, current, completed } = props
+  const { setStatus } = useProgressCtx()
   return (
     <Link
       href={`/courses/${courseId}/lessons/${lesson.id}`}
+      onClick={() => setStatus(courseId, lesson.id, 'in-progress')}
       className={`block p-3 rounded-xl border hover:border-blue-400 transition ${current ? 'bg-blue-50' : 'bg-white'}`}
     >
       <div className="flex items-center justify-between gap-3">

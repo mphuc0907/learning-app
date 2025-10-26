@@ -2,6 +2,7 @@ import './globals.css'
 import type { Metadata } from 'next'
 import { AuthProvider } from '@/contexts/AuthContext'
 import Header from '@/components/Header'
+import { ProgressProvider } from '@/contexts/ProgressContext'
 
 export const metadata: Metadata = {
   title: 'Learning App',
@@ -13,10 +14,12 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
     <html lang="vi">
       <body className="min-h-dvh antialiased">
         <AuthProvider>
+          <ProgressProvider>
           <Header />
           <main className="py-6">{children}</main>
-        </AuthProvider>
-      </body>
-    </html>
+          </ProgressProvider>
+      </AuthProvider>
+    </body>
+    </html >
   )
 }

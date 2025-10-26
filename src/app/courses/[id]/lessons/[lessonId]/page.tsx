@@ -1,9 +1,10 @@
 'use client'
 import Container from '@/components/Container'
 import { useCourse } from '@/hooks/useCourse'
-import { useLessonProgress } from '@/hooks/useProgress'
 import { useParams, useRouter } from 'next/navigation'
 import Button from '@mui/material/Button'
+import { useEffect } from 'react'
+import { useProgressCtx } from '@/contexts/ProgressContext'
 
 export default function LessonDetailPage() {
   const params = useParams<{ id: string; lessonId: string }>()
@@ -11,13 +12,20 @@ export default function LessonDetailPage() {
   const { course, loading, error } = useCourse(params.id)
   const lesson = course?.lessons.find(l => l.id === params.lessonId)
 
-  const { status, markCompleted } = useLessonProgress(params.id, params.lessonId)
+  const { getStatus, setStatus } = useProgressCtx()
+  const status = lesson ? getStatus(params.id, lesson.id) : 'not-started'
+
+  useEffect(() => {
+    if (lesson && status === 'not-started') {
+      setStatus(params.id, lesson.id, 'in-progress')
+    }
+  }, [lesson?.id])
 
   if (loading) return <Container><div className="card p-6">Đang tải...</div></Container>
   if (error || !course || !lesson) return <Container><div className="text-red-600">Không tìm thấy bài học.</div></Container>
 
   const handleComplete = () => {
-    if (status !== 'completed') markCompleted()
+    if (status !== 'completed') setStatus(course.id, lesson.id, 'completed')
   }
 
   return (
@@ -28,8 +36,8 @@ export default function LessonDetailPage() {
             <h1 className="text-xl font-semibold">#{lesson.order} — {lesson.title}</h1>
             <div className="text-sm text-gray-500 mt-1">{lesson.duration} phút</div>
           </div>
-          <span className={`text-xs px-2 py-1 rounded-full border ${status === 'completed' ? 'bg-emerald-50 text-emerald-700 border-emerald-200' : 'text-gray-600 border-gray-200'}`}>
-            {status === 'completed' ? 'Completed' : 'Not started'}
+          <span className={`text-xs px-2 py-1 rounded-full border ${status === 'completed' ? 'bg-emerald-50 text-emerald-700 border-emerald-200' : status === 'in-progress' ? 'bg-amber-50 text-amber-700 border-amber-200' : 'text-gray-600 border-gray-200'}`}>
+            {status === 'completed' ? 'Completed' : status === 'in-progress' ? 'In progress' : 'Not started'}
           </span>
         </div>
 

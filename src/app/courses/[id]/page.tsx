@@ -3,22 +3,33 @@ import Container from '@/components/Container'
 import ProgressBar from '@/components/ProgressBar'
 import LessonItem from '@/components/LessonItem'
 import { useCourse } from '@/hooks/useCourse'
-import { useCourseProgressMap } from '@/hooks/useProgress'
 import { useParams } from 'next/navigation'
-import { log } from 'console'
+import { useProgressCtx } from '@/contexts/ProgressContext'
 
 export default function CourseDetailPage() {
   const params = useParams<{ id: string }>()
   const courseId = params.id
-  console.log(courseId);
-  
   const { course, loading, error } = useCourse(courseId)
-  console.log('datacoure', course);
-  
-  const progressMap = useCourseProgressMap(courseId)
+  const { courseMap, courseStats } = useProgressCtx()
 
   if (loading) return <Container><div className="card p-6">Đang tải...</div></Container>
   if (error || !course) return <Container><div className="text-red-600">Không tìm thấy khóa học.</div></Container>
+
+  const map = courseMap(course.id)
+  const stats = courseStats(course.id, course.lessons.map(l => l.id))
+
+  const statusBadge = (
+    <span className={
+      'rounded-full px-3 py-1 text-sm ' + 
+      (stats.status === 'completed'
+        ? 'bg-emerald-50 text-emerald-700'
+        : stats.status === 'in-progress'
+        ? 'bg-amber-50 text-amber-700'
+        : 'bg-gray-100 text-gray-700')
+    }>
+      {stats.status}
+    </span>
+  )
 
   return (
     <Container>
@@ -33,17 +44,21 @@ export default function CourseDetailPage() {
               <span className="rounded-full bg-blue-50 text-blue-700 px-3 py-1">{course.kindOfCourse}</span>
               <span className="rounded-full bg-gray-100 text-gray-700 px-3 py-1">Level: {course.level}</span>
               <span className="rounded-full bg-emerald-50 text-emerald-700 px-3 py-1">{course.totalLessons} lessons</span>
+              {statusBadge}
             </div>
           </div>
-        <h3>{course.title}</h3>
+
           <p className="mt-3 text-gray-700">{course.description}</p>
 
           <div className="mt-4">
-            <ProgressBar value={0} />
-            <div className="text-xs text-gray-500 mt-1">Progress (sẽ tính ở Day 4)</div>
+            <ProgressBar value={stats.percent} />
+            <div className="text-xs text-gray-500 mt-1">
+              {stats.completed}/{stats.total} completed • {stats.percent}%
+            </div>
           </div>
         </div>
       </div>
+
       <section className="mt-6">
         <h2 className="text-lg font-semibold mb-3">Danh sách bài học</h2>
         <div className="grid gap-2">
@@ -52,7 +67,7 @@ export default function CourseDetailPage() {
               key={ls.id}
               courseId={course.id}
               lesson={ls}
-              completed={progressMap[ls.id] === 'completed'}
+              completed={map[ls.id] === 'completed'}
             />
           ))}
         </div>
