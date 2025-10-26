@@ -16,3 +16,8 @@ export async function fetchCourses(params: {
   if (!res.ok) throw new Error('Failed to fetch courses')
   return res.json()
 }
+export async function fetchCourse(id: string): Promise<Course> {
+  const res = await fetch(`/api/courses/${id}?id=${id}`, { cache: 'no-store' })
+  if (!res.ok) throw new Error('Course not found')
+  return res.json()
+}

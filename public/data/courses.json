@@ -1,0 +1,2142 @@
+[
+    {
+        "id": "c-1004",
+        "title": "Grammar Essentials A1",
+        "description": "Nắm vững ngữ pháp cơ bản cho người mới bắt đầu.",
+        "thumbnail": "https://images.unsplash.com/photo-1523580846011-d3a5bc25702b?q=80&w=1200&auto=format&fit=crop",
+        "level": "Beginner",
+        "kindOfCourse": "GRAMMAR",
+        "totalLessons": 8,
+        "progress": 0,
+        "status": "not-started",
+        "lessons": [
+            {
+                "id": "l-1004-01",
+                "courseId": "c-1004",
+                "title": "Lesson 1: Nouns & Articles",
+                "duration": 9,
+                "url": "#",
+                "description": "Danh từ và mạo từ cơ bản.",
+                "status": "not-started",
+                "order": 1
+            },
+            {
+                "id": "l-1004-02",
+                "courseId": "c-1004",
+                "title": "Lesson 2: Be Verbs",
+                "duration": 8,
+                "url": "#",
+                "description": "To be (am/is/are).",
+                "status": "not-started",
+                "order": 2
+            },
+            {
+                "id": "l-1004-03",
+                "courseId": "c-1004",
+                "title": "Lesson 3: Simple Present",
+                "duration": 10,
+                "url": "#",
+                "description": "Hiện tại đơn cho thói quen.",
+                "status": "not-started",
+                "order": 3
+            },
+            {
+                "id": "l-1004-04",
+                "courseId": "c-1004",
+                "title": "Lesson 4: Plurals",
+                "duration": 9,
+                "url": "#",
+                "description": "Danh từ số nhiều.",
+                "status": "not-started",
+                "order": 4
+            },
+            {
+                "id": "l-1004-05",
+                "courseId": "c-1004",
+                "title": "Lesson 5: Pronouns",
+                "duration": 11,
+                "url": "#",
+                "description": "Đại từ nhân xưng & sở hữu.",
+                "status": "not-started",
+                "order": 5
+            },
+            {
+                "id": "l-1004-06",
+                "courseId": "c-1004",
+                "title": "Lesson 6: Adjectives",
+                "duration": 9,
+                "url": "#",
+                "description": "Tính từ mô tả.",
+                "status": "not-started",
+                "order": 6
+            },
+            {
+                "id": "l-1004-07",
+                "courseId": "c-1004",
+                "title": "Lesson 7: Prepositions",
+                "duration": 10,
+                "url": "#",
+                "description": "Giới từ nơi chốn/thời gian.",
+                "status": "not-started",
+                "order": 7
+            },
+            {
+                "id": "l-1004-08",
+                "courseId": "c-1004",
+                "title": "Lesson 8: Review & Quiz",
+                "duration": 12,
+                "url": "#",
+                "description": "Ôn tập + mini-quiz.",
+                "status": "not-started",
+                "order": 8
+            }
+        ]
+    },
+    {
+        "id": "c-1005",
+        "title": "Daily Conversation Mastery",
+        "description": "Rèn luyện giao tiếp tiếng Anh tự nhiên qua hội thoại hằng ngày.",
+        "thumbnail": "https://images.unsplash.com/photo-1523580846011-d3a5bc25702b?q=80&w=1200&auto=format&fit=crop",
+        "level": "Pre-Intermediate",
+        "kindOfCourse": "SPEAKING",
+        "totalLessons": 10,
+        "progress": 0,
+        "status": "not-started",
+        "lessons": [
+            {
+                "id": "l-1005-01",
+                "courseId": "c-1005",
+                "title": "Lesson 1: Greetings",
+                "duration": 9,
+                "url": "#",
+                "description": "Chào hỏi & làm quen.",
+                "status": "not-started",
+                "order": 1
+            },
+            {
+                "id": "l-1005-02",
+                "courseId": "c-1005",
+                "title": "Lesson 2: Small Talk",
+                "duration": 10,
+                "url": "#",
+                "description": "Trò chuyện ngắn.",
+                "status": "not-started",
+                "order": 2
+            },
+            {
+                "id": "l-1005-03",
+                "courseId": "c-1005",
+                "title": "Lesson 3: Asking for Help",
+                "duration": 11,
+                "url": "#",
+                "description": "Xin giúp đỡ lịch sự.",
+                "status": "not-started",
+                "order": 3
+            },
+            {
+                "id": "l-1005-04",
+                "courseId": "c-1005",
+                "title": "Lesson 4: Directions",
+                "duration": 9,
+                "url": "#",
+                "description": "Hỏi đường.",
+                "status": "not-started",
+                "order": 4
+            },
+            {
+                "id": "l-1005-05",
+                "courseId": "c-1005",
+                "title": "Lesson 5: Shopping",
+                "duration": 12,
+                "url": "#",
+                "description": "Mua sắm & trả giá.",
+                "status": "not-started",
+                "order": 5
+            },
+            {
+                "id": "l-1005-06",
+                "courseId": "c-1005",
+                "title": "Lesson 6: Food & Drinks",
+                "duration": 10,
+                "url": "#",
+                "description": "Đặt món & góp ý.",
+                "status": "not-started",
+                "order": 6
+            },
+            {
+                "id": "l-1005-07",
+                "courseId": "c-1005",
+                "title": "Lesson 7: Appointments",
+                "duration": 9,
+                "url": "#",
+                "description": "Hẹn lịch & xác nhận.",
+                "status": "not-started",
+                "order": 7
+            },
+            {
+                "id": "l-1005-08",
+                "courseId": "c-1005",
+                "title": "Lesson 8: Complaints",
+                "duration": 11,
+                "url": "#",
+                "description": "Phàn nàn lịch sự.",
+                "status": "not-started",
+                "order": 8
+            },
+            {
+                "id": "l-1005-09",
+                "courseId": "c-1005",
+                "title": "Lesson 9: Opinions",
+                "duration": 10,
+                "url": "#",
+                "description": "Nêu ý kiến & đồng ý/không.",
+                "status": "not-started",
+                "order": 9
+            },
+            {
+                "id": "l-1005-10",
+                "courseId": "c-1005",
+                "title": "Lesson 10: Review",
+                "duration": 12,
+                "url": "#",
+                "description": "Ôn tập hội thoại.",
+                "status": "not-started",
+                "order": 10
+            }
+        ]
+    },
+    {
+        "id": "c-1006",
+        "title": "Listening Challenge 101",
+        "description": "Luyện nghe tiếng Anh qua đoạn hội thoại và video thực tế.",
+        "thumbnail": "https://images.unsplash.com/photo-1523580846011-d3a5bc25702b?q=80&w=1200&auto=format&fit=crop",
+        "level": "Beginner",
+        "kindOfCourse": "LISTENING",
+        "totalLessons": 12,
+        "progress": 0,
+        "status": "not-started",
+        "lessons": [
+            {
+                "id": "l-1006-01",
+                "courseId": "c-1006",
+                "title": "Lesson 1: Sounds & Syllables",
+                "duration": 8,
+                "url": "#",
+                "description": "Âm cơ bản & nhịp.",
+                "status": "not-started",
+                "order": 1
+            },
+            {
+                "id": "l-1006-02",
+                "courseId": "c-1006",
+                "title": "Lesson 2: Numbers",
+                "duration": 9,
+                "url": "#",
+                "description": "Nghe số & giá tiền.",
+                "status": "not-started",
+                "order": 2
+            },
+            {
+                "id": "l-1006-03",
+                "courseId": "c-1006",
+                "title": "Lesson 3: Times & Dates",
+                "duration": 10,
+                "url": "#",
+                "description": "Giờ & ngày tháng.",
+                "status": "not-started",
+                "order": 3
+            },
+            {
+                "id": "l-1006-04",
+                "courseId": "c-1006",
+                "title": "Lesson 4: Names & Spelling",
+                "duration": 9,
+                "url": "#",
+                "description": "Đánh vần & tên riêng.",
+                "status": "not-started",
+                "order": 4
+            },
+            {
+                "id": "l-1006-05",
+                "courseId": "c-1006",
+                "title": "Lesson 5: Short Dialogues I",
+                "duration": 10,
+                "url": "#",
+                "description": "Hội thoại ngắn (1).",
+                "status": "not-started",
+                "order": 5
+            },
+            {
+                "id": "l-1006-06",
+                "courseId": "c-1006",
+                "title": "Lesson 6: Short Dialogues II",
+                "duration": 11,
+                "url": "#",
+                "description": "Hội thoại ngắn (2).",
+                "status": "not-started",
+                "order": 6
+            },
+            {
+                "id": "l-1006-07",
+                "courseId": "c-1006",
+                "title": "Lesson 7: Announcements",
+                "duration": 9,
+                "url": "#",
+                "description": "Thông báo sân bay/ga.",
+                "status": "not-started",
+                "order": 7
+            },
+            {
+                "id": "l-1006-08",
+                "courseId": "c-1006",
+                "title": "Lesson 8: Directions",
+                "duration": 10,
+                "url": "#",
+                "description": "Chỉ dẫn đường đi.",
+                "status": "not-started",
+                "order": 8
+            },
+            {
+                "id": "l-1006-09",
+                "courseId": "c-1006",
+                "title": "Lesson 9: Interviews",
+                "duration": 12,
+                "url": "#",
+                "description": "Phỏng vấn ngắn.",
+                "status": "not-started",
+                "order": 9
+            },
+            {
+                "id": "l-1006-10",
+                "courseId": "c-1006",
+                "title": "Lesson 10: News Snippets",
+                "duration": 11,
+                "url": "#",
+                "description": "Mẩu tin ngắn.",
+                "status": "not-started",
+                "order": 10
+            },
+            {
+                "id": "l-1006-11",
+                "courseId": "c-1006",
+                "title": "Lesson 11: Songs & Rhythm",
+                "duration": 9,
+                "url": "#",
+                "description": "Nhạc & tiết tấu.",
+                "status": "not-started",
+                "order": 11
+            },
+            {
+                "id": "l-1006-12",
+                "courseId": "c-1006",
+                "title": "Lesson 12: Review",
+                "duration": 12,
+                "url": "#",
+                "description": "Ôn tập tổng hợp.",
+                "status": "not-started",
+                "order": 12
+            }
+        ]
+    },
+    {
+        "id": "c-1007",
+        "title": "Academic Writing Skills",
+        "description": "Học cách viết bài luận và đoạn văn học thuật chuyên nghiệp.",
+        "thumbnail": "https://images.unsplash.com/photo-1523580846011-d3a5bc25702b?q=80&w=1200&auto=format&fit=crop",
+        "level": "Intermediate",
+        "kindOfCourse": "WRITING",
+        "totalLessons": 9,
+        "progress": 0,
+        "status": "not-started",
+        "lessons": [
+            {
+                "id": "l-1007-01",
+                "courseId": "c-1007",
+                "title": "Lesson 1: Paragraph Basics",
+                "duration": 10,
+                "url": "#",
+                "description": "Cấu trúc đoạn văn.",
+                "status": "not-started",
+                "order": 1
+            },
+            {
+                "id": "l-1007-02",
+                "courseId": "c-1007",
+                "title": "Lesson 2: Thesis Statement",
+                "duration": 9,
+                "url": "#",
+                "description": "Câu chủ đề mạnh.",
+                "status": "not-started",
+                "order": 2
+            },
+            {
+                "id": "l-1007-03",
+                "courseId": "c-1007",
+                "title": "Lesson 3: Coherence",
+                "duration": 10,
+                "url": "#",
+                "description": "Mạch lạc & liên kết.",
+                "status": "not-started",
+                "order": 3
+            },
+            {
+                "id": "l-1007-04",
+                "courseId": "c-1007",
+                "title": "Lesson 4: Evidence & Examples",
+                "duration": 11,
+                "url": "#",
+                "description": "Dẫn chứng & minh họa.",
+                "status": "not-started",
+                "order": 4
+            },
+            {
+                "id": "l-1007-05",
+                "courseId": "c-1007",
+                "title": "Lesson 5: Academic Style",
+                "duration": 9,
+                "url": "#",
+                "description": "Phong cách học thuật.",
+                "status": "not-started",
+                "order": 5
+            },
+            {
+                "id": "l-1007-06",
+                "courseId": "c-1007",
+                "title": "Lesson 6: Introductions",
+                "duration": 10,
+                "url": "#",
+                "description": "Mở bài hiệu quả.",
+                "status": "not-started",
+                "order": 6
+            },
+            {
+                "id": "l-1007-07",
+                "courseId": "c-1007",
+                "title": "Lesson 7: Conclusions",
+                "duration": 9,
+                "url": "#",
+                "description": "Kết bài chặt chẽ.",
+                "status": "not-started",
+                "order": 7
+            },
+            {
+                "id": "l-1007-08",
+                "courseId": "c-1007",
+                "title": "Lesson 8: Editing",
+                "duration": 10,
+                "url": "#",
+                "description": "Chỉnh sửa & rà soát.",
+                "status": "not-started",
+                "order": 8
+            },
+            {
+                "id": "l-1007-09",
+                "courseId": "c-1007",
+                "title": "Lesson 9: Review",
+                "duration": 12,
+                "url": "#",
+                "description": "Ôn tập + mini-quiz.",
+                "status": "not-started",
+                "order": 9
+            }
+        ]
+    },
+    {
+        "id": "c-1008",
+        "title": "IELTS Speaking Band 6+",
+        "description": "Chiến lược và thực hành nâng cao band điểm phần nói IELTS.",
+        "thumbnail": "https://images.unsplash.com/photo-1523580846011-d3a5bc25702b?q=80&w=1200&auto=format&fit=crop",
+        "level": "Upper-Intermediate",
+        "kindOfCourse": "IELTS",
+        "totalLessons": 15,
+        "progress": 0,
+        "status": "not-started",
+        "lessons": [
+            {
+                "id": "l-1008-01",
+                "courseId": "c-1008",
+                "title": "Lesson 1: Fluency & Coherence",
+                "duration": 11,
+                "url": "#",
+                "description": "Nhịp độ & mạch lạc.",
+                "status": "not-started",
+                "order": 1
+            },
+            {
+                "id": "l-1008-02",
+                "courseId": "c-1008",
+                "title": "Lesson 2: Lexical Resource",
+                "duration": 10,
+                "url": "#",
+                "description": "Vốn từ nâng cao.",
+                "status": "not-started",
+                "order": 2
+            },
+            {
+                "id": "l-1008-03",
+                "courseId": "c-1008",
+                "title": "Lesson 3: Grammatical Range",
+                "duration": 12,
+                "url": "#",
+                "description": "Cấu trúc đa dạng.",
+                "status": "not-started",
+                "order": 3
+            },
+            {
+                "id": "l-1008-04",
+                "courseId": "c-1008",
+                "title": "Lesson 4: Pronunciation I",
+                "duration": 9,
+                "url": "#",
+                "description": "Trọng âm & nối âm.",
+                "status": "not-started",
+                "order": 4
+            },
+            {
+                "id": "l-1008-05",
+                "courseId": "c-1008",
+                "title": "Lesson 5: Pronunciation II",
+                "duration": 10,
+                "url": "#",
+                "description": "Âm cuối & ngữ điệu.",
+                "status": "not-started",
+                "order": 5
+            },
+            {
+                "id": "l-1008-06",
+                "courseId": "c-1008",
+                "title": "Lesson 6: Part 1 Topics",
+                "duration": 9,
+                "url": "#",
+                "description": "Chủ đề thường gặp.",
+                "status": "not-started",
+                "order": 6
+            },
+            {
+                "id": "l-1008-07",
+                "courseId": "c-1008",
+                "title": "Lesson 7: Part 2 Cue Cards",
+                "duration": 12,
+                "url": "#",
+                "description": "Kỹ thuật triển khai 2 phút.",
+                "status": "not-started",
+                "order": 7
+            },
+            {
+                "id": "l-1008-08",
+                "courseId": "c-1008",
+                "title": "Lesson 8: Part 3 Discussion",
+                "duration": 11,
+                "url": "#",
+                "description": "Tranh luận & phân tích.",
+                "status": "not-started",
+                "order": 8
+            },
+            {
+                "id": "l-1008-09",
+                "courseId": "c-1008",
+                "title": "Lesson 9: Linking Phrases",
+                "duration": 10,
+                "url": "#",
+                "description": "Liên từ & cụm nối.",
+                "status": "not-started",
+                "order": 9
+            },
+            {
+                "id": "l-1008-10",
+                "courseId": "c-1008",
+                "title": "Lesson 10: Paraphrasing",
+                "duration": 9,
+                "url": "#",
+                "description": "Diễn đạt lại tự nhiên.",
+                "status": "not-started",
+                "order": 10
+            },
+            {
+                "id": "l-1008-11",
+                "courseId": "c-1008",
+                "title": "Lesson 11: Opinion Building",
+                "duration": 10,
+                "url": "#",
+                "description": "Phát triển ý & ví dụ.",
+                "status": "not-started",
+                "order": 11
+            },
+            {
+                "id": "l-1008-12",
+                "courseId": "c-1008",
+                "title": "Lesson 12: Hesitation Control",
+                "duration": 9,
+                "url": "#",
+                "description": "Xử lý ngập ngừng.",
+                "status": "not-started",
+                "order": 12
+            },
+            {
+                "id": "l-1008-13",
+                "courseId": "c-1008",
+                "title": "Lesson 13: Topic Expansion",
+                "duration": 12,
+                "url": "#",
+                "description": "Mở rộng chủ đề.",
+                "status": "not-started",
+                "order": 13
+            },
+            {
+                "id": "l-1008-14",
+                "courseId": "c-1008",
+                "title": "Lesson 14: Mock Test",
+                "duration": 13,
+                "url": "#",
+                "description": "Thi thử có chấm điểm.",
+                "status": "not-started",
+                "order": 14
+            },
+            {
+                "id": "l-1008-15",
+                "courseId": "c-1008",
+                "title": "Lesson 15: Review",
+                "duration": 14,
+                "url": "#",
+                "description": "Ôn tổng hợp & feedback.",
+                "status": "not-started",
+                "order": 15
+            }
+        ]
+    },
+    {
+        "id": "c-1009",
+        "title": "TOEIC Vocabulary Practice",
+        "description": "Từ vựng trọng điểm giúp đạt điểm cao trong kỳ thi TOEIC.",
+        "thumbnail": "https://images.unsplash.com/photo-1523580846011-d3a5bc25702b?q=80&w=1200&auto=format&fit=crop",
+        "level": "Intermediate",
+        "kindOfCourse": "TOEIC",
+        "totalLessons": 14,
+        "progress": 0,
+        "status": "not-started",
+        "lessons": [
+            {
+                "id": "l-1009-01",
+                "courseId": "c-1009",
+                "title": "Lesson 1: Office & HR",
+                "duration": 10,
+                "url": "#",
+                "description": "Từ vựng văn phòng.",
+                "status": "not-started",
+                "order": 1
+            },
+            {
+                "id": "l-1009-02",
+                "courseId": "c-1009",
+                "title": "Lesson 2: Finance",
+                "duration": 9,
+                "url": "#",
+                "description": "Kế toán & ngân sách.",
+                "status": "not-started",
+                "order": 2
+            },
+            {
+                "id": "l-1009-03",
+                "courseId": "c-1009",
+                "title": "Lesson 3: Travel",
+                "duration": 10,
+                "url": "#",
+                "description": "Công tác & đặt chỗ.",
+                "status": "not-started",
+                "order": 3
+            },
+            {
+                "id": "l-1009-04",
+                "courseId": "c-1009",
+                "title": "Lesson 4: Marketing",
+                "duration": 11,
+                "url": "#",
+                "description": "Quảng cáo & khảo sát.",
+                "status": "not-started",
+                "order": 4
+            },
+            {
+                "id": "l-1009-05",
+                "courseId": "c-1009",
+                "title": "Lesson 5: Contracts",
+                "duration": 10,
+                "url": "#",
+                "description": "Hợp đồng & điều khoản.",
+                "status": "not-started",
+                "order": 5
+            },
+            {
+                "id": "l-1009-06",
+                "courseId": "c-1009",
+                "title": "Lesson 6: Manufacturing",
+                "duration": 9,
+                "url": "#",
+                "description": "Sản xuất & hậu cần.",
+                "status": "not-started",
+                "order": 6
+            },
+            {
+                "id": "l-1009-07",
+                "courseId": "c-1009",
+                "title": "Lesson 7: IT & Tech",
+                "duration": 10,
+                "url": "#",
+                "description": "Công nghệ & hệ thống.",
+                "status": "not-started",
+                "order": 7
+            },
+            {
+                "id": "l-1009-08",
+                "courseId": "c-1009",
+                "title": "Lesson 8: Real Estate",
+                "duration": 9,
+                "url": "#",
+                "description": "Bất động sản & thuê.",
+                "status": "not-started",
+                "order": 8
+            },
+            {
+                "id": "l-1009-09",
+                "courseId": "c-1009",
+                "title": "Lesson 9: Healthcare",
+                "duration": 11,
+                "url": "#",
+                "description": "Y tế & bảo hiểm.",
+                "status": "not-started",
+                "order": 9
+            },
+            {
+                "id": "l-1009-10",
+                "courseId": "c-1009",
+                "title": "Lesson 10: Entertainment",
+                "duration": 10,
+                "url": "#",
+                "description": "Giải trí & sự kiện.",
+                "status": "not-started",
+                "order": 10
+            },
+            {
+                "id": "l-1009-11",
+                "courseId": "c-1009",
+                "title": "Lesson 11: Dining",
+                "duration": 9,
+                "url": "#",
+                "description": "Ẩm thực & đặt bàn.",
+                "status": "not-started",
+                "order": 11
+            },
+            {
+                "id": "l-1009-12",
+                "courseId": "c-1009",
+                "title": "Lesson 12: Transportation",
+                "duration": 10,
+                "url": "#",
+                "description": "Vận tải & giao nhận.",
+                "status": "not-started",
+                "order": 12
+            },
+            {
+                "id": "l-1009-13",
+                "courseId": "c-1009",
+                "title": "Lesson 13: Customer Service",
+                "duration": 10,
+                "url": "#",
+                "description": "CSKH & phản hồi.",
+                "status": "not-started",
+                "order": 13
+            },
+            {
+                "id": "l-1009-14",
+                "courseId": "c-1009",
+                "title": "Lesson 14: Review",
+                "duration": 12,
+                "url": "#",
+                "description": "Ôn tập + mini-quiz.",
+                "status": "not-started",
+                "order": 14
+            }
+        ]
+    },
+    {
+        "id": "c-1010",
+        "title": "Business English Basics",
+        "description": "Giao tiếp và viết email chuyên nghiệp trong môi trường làm việc quốc tế.",
+        "thumbnail": "https://images.unsplash.com/photo-1523580846011-d3a5bc25702b?q=80&w=1200&auto=format&fit=crop",
+        "level": "Intermediate",
+        "kindOfCourse": "BUSINESS",
+        "totalLessons": 10,
+        "progress": 0,
+        "status": "not-started",
+        "lessons": [
+            {
+                "id": "l-1010-01",
+                "courseId": "c-1010",
+                "title": "Lesson 1: Email Basics",
+                "duration": 10,
+                "url": "#",
+                "description": "Cấu trúc email chuẩn.",
+                "status": "not-started",
+                "order": 1
+            },
+            {
+                "id": "l-1010-02",
+                "courseId": "c-1010",
+                "title": "Lesson 2: Polite Requests",
+                "duration": 9,
+                "url": "#",
+                "description": "Yêu cầu lịch sự.",
+                "status": "not-started",
+                "order": 2
+            },
+            {
+                "id": "l-1010-03",
+                "courseId": "c-1010",
+                "title": "Lesson 3: Scheduling",
+                "duration": 10,
+                "url": "#",
+                "description": "Sắp xếp lịch họp.",
+                "status": "not-started",
+                "order": 3
+            },
+            {
+                "id": "l-1010-04",
+                "courseId": "c-1010",
+                "title": "Lesson 4: Reports",
+                "duration": 11,
+                "url": "#",
+                "description": "Viết báo cáo súc tích.",
+                "status": "not-started",
+                "order": 4
+            },
+            {
+                "id": "l-1010-05",
+                "courseId": "c-1010",
+                "title": "Lesson 5: Negotiations",
+                "duration": 12,
+                "url": "#",
+                "description": "Đàm phán cơ bản.",
+                "status": "not-started",
+                "order": 5
+            },
+            {
+                "id": "l-1010-06",
+                "courseId": "c-1010",
+                "title": "Lesson 6: Presentations",
+                "duration": 10,
+                "url": "#",
+                "description": "Trình bày ý tưởng.",
+                "status": "not-started",
+                "order": 6
+            },
+            {
+                "id": "l-1010-07",
+                "courseId": "c-1010",
+                "title": "Lesson 7: Feedback",
+                "duration": 9,
+                "url": "#",
+                "description": "Phản hồi chuyên nghiệp.",
+                "status": "not-started",
+                "order": 7
+            },
+            {
+                "id": "l-1010-08",
+                "courseId": "c-1010",
+                "title": "Lesson 8: Meetings",
+                "duration": 11,
+                "url": "#",
+                "description": "Quy trình họp hiệu quả.",
+                "status": "not-started",
+                "order": 8
+            },
+            {
+                "id": "l-1010-09",
+                "courseId": "c-1010",
+                "title": "Lesson 9: Phone Calls",
+                "duration": 9,
+                "url": "#",
+                "description": "Gọi điện – thoại thoại.",
+                "status": "not-started",
+                "order": 9
+            },
+            {
+                "id": "l-1010-10",
+                "courseId": "c-1010",
+                "title": "Lesson 10: Review",
+                "duration": 12,
+                "url": "#",
+                "description": "Ôn tập & case study.",
+                "status": "not-started",
+                "order": 10
+            }
+        ]
+    },
+    {
+        "id": "c-1011",
+        "title": "Pronunciation Booster",
+        "description": "Cải thiện phát âm chuẩn Anh - Mỹ với bài tập nghe và nói thực tế.",
+        "thumbnail": "https://images.unsplash.com/photo-1523580846011-d3a5bc25702b?q=80&w=1200&auto=format&fit=crop",
+        "level": "Beginner",
+        "kindOfCourse": "PRONUNCIATION",
+        "totalLessons": 8,
+        "progress": 0,
+        "status": "not-started",
+        "lessons": [
+            {
+                "id": "l-1011-01",
+                "courseId": "c-1011",
+                "title": "Lesson 1: Vowel Sounds",
+                "duration": 9,
+                "url": "#",
+                "description": "Nguyên âm cơ bản.",
+                "status": "not-started",
+                "order": 1
+            },
+            {
+                "id": "l-1011-02",
+                "courseId": "c-1011",
+                "title": "Lesson 2: Consonants",
+                "duration": 10,
+                "url": "#",
+                "description": "Phụ âm & cặp dễ lẫn.",
+                "status": "not-started",
+                "order": 2
+            },
+            {
+                "id": "l-1011-03",
+                "courseId": "c-1011",
+                "title": "Lesson 3: Word Stress",
+                "duration": 9,
+                "url": "#",
+                "description": "Trọng âm từ.",
+                "status": "not-started",
+                "order": 3
+            },
+            {
+                "id": "l-1011-04",
+                "courseId": "c-1011",
+                "title": "Lesson 4: Sentence Stress",
+                "duration": 10,
+                "url": "#",
+                "description": "Trọng âm câu.",
+                "status": "not-started",
+                "order": 4
+            },
+            {
+                "id": "l-1011-05",
+                "courseId": "c-1011",
+                "title": "Lesson 5: Linking",
+                "duration": 9,
+                "url": "#",
+                "description": "Nối âm tự nhiên.",
+                "status": "not-started",
+                "order": 5
+            },
+            {
+                "id": "l-1011-06",
+                "courseId": "c-1011",
+                "title": "Lesson 6: Intonation",
+                "duration": 10,
+                "url": "#",
+                "description": "Ngữ điệu câu hỏi/câu kể.",
+                "status": "not-started",
+                "order": 6
+            },
+            {
+                "id": "l-1011-07",
+                "courseId": "c-1011",
+                "title": "Lesson 7: Minimal Pairs",
+                "duration": 8,
+                "url": "#",
+                "description": "Cặp âm phân biệt.",
+                "status": "not-started",
+                "order": 7
+            },
+            {
+                "id": "l-1011-08",
+                "courseId": "c-1011",
+                "title": "Lesson 8: Review & Drill",
+                "duration": 12,
+                "url": "#",
+                "description": "Ôn tập + luyện nhanh.",
+                "status": "not-started",
+                "order": 8
+            }
+        ]
+    },
+    {
+        "id": "c-1012",
+        "title": "Reading Explorer 202",
+        "description": "Phát triển kỹ năng đọc hiểu qua các bài báo, truyện ngắn và chủ đề học thuật.",
+        "thumbnail": "https://images.unsplash.com/photo-1523580846011-d3a5bc25702b?q=80&w=1200&auto=format&fit=crop",
+        "level": "Intermediate",
+        "kindOfCourse": "READING",
+        "totalLessons": 10,
+        "progress": 0,
+        "status": "not-started",
+        "lessons": [
+            {
+                "id": "l-1012-01",
+                "courseId": "c-1012",
+                "title": "Lesson 1: Skimming",
+                "duration": 9,
+                "url": "#",
+                "description": "Đọc lướt tìm ý chính.",
+                "status": "not-started",
+                "order": 1
+            },
+            {
+                "id": "l-1012-02",
+                "courseId": "c-1012",
+                "title": "Lesson 2: Scanning",
+                "duration": 9,
+                "url": "#",
+                "description": "Đọc quét tìm chi tiết.",
+                "status": "not-started",
+                "order": 2
+            },
+            {
+                "id": "l-1012-03",
+                "courseId": "c-1012",
+                "title": "Lesson 3: Inference",
+                "duration": 10,
+                "url": "#",
+                "description": "Suy luận ngữ cảnh.",
+                "status": "not-started",
+                "order": 3
+            },
+            {
+                "id": "l-1012-04",
+                "courseId": "c-1012",
+                "title": "Lesson 4: Vocabulary in Context",
+                "duration": 11,
+                "url": "#",
+                "description": "Đoán nghĩa từ.",
+                "status": "not-started",
+                "order": 4
+            },
+            {
+                "id": "l-1012-05",
+                "courseId": "c-1012",
+                "title": "Lesson 5: Text Structure",
+                "duration": 10,
+                "url": "#",
+                "description": "Cấu trúc bài đọc.",
+                "status": "not-started",
+                "order": 5
+            },
+            {
+                "id": "l-1012-06",
+                "courseId": "c-1012",
+                "title": "Lesson 6: Main Ideas",
+                "duration": 9,
+                "url": "#",
+                "description": "Ý chính & chi tiết phụ.",
+                "status": "not-started",
+                "order": 6
+            },
+            {
+                "id": "l-1012-07",
+                "courseId": "c-1012",
+                "title": "Lesson 7: Critical Reading",
+                "duration": 12,
+                "url": "#",
+                "description": "Đọc phản biện.",
+                "status": "not-started",
+                "order": 7
+            },
+            {
+                "id": "l-1012-08",
+                "courseId": "c-1012",
+                "title": "Lesson 8: Summarizing",
+                "duration": 10,
+                "url": "#",
+                "description": "Tóm tắt hiệu quả.",
+                "status": "not-started",
+                "order": 8
+            },
+            {
+                "id": "l-1012-09",
+                "courseId": "c-1012",
+                "title": "Lesson 9: Timed Reading",
+                "duration": 9,
+                "url": "#",
+                "description": "Quản lý thời gian đọc.",
+                "status": "not-started",
+                "order": 9
+            },
+            {
+                "id": "l-1012-10",
+                "courseId": "c-1012",
+                "title": "Lesson 10: Review",
+                "duration": 12,
+                "url": "#",
+                "description": "Ôn tập bài đọc.",
+                "status": "not-started",
+                "order": 10
+            }
+        ]
+    },
+    {
+        "id": "c-1013",
+        "title": "English for Travel",
+        "description": "Tự tin giao tiếp trong mọi tình huống du lịch quốc tế.",
+        "thumbnail": "https://images.unsplash.com/photo-1523580846011-d3a5bc25702b?q=80&w=1200&auto=format&fit=crop",
+        "level": "Elementary",
+        "kindOfCourse": "COMMUNICATION",
+        "totalLessons": 7,
+        "progress": 0,
+        "status": "not-started",
+        "lessons": [
+            {
+                "id": "l-1013-01",
+                "courseId": "c-1013",
+                "title": "Lesson 1: At the Airport",
+                "duration": 9,
+                "url": "#",
+                "description": "Làm thủ tục & an ninh.",
+                "status": "not-started",
+                "order": 1
+            },
+            {
+                "id": "l-1013-02",
+                "courseId": "c-1013",
+                "title": "Lesson 2: On the Plane",
+                "duration": 8,
+                "url": "#",
+                "description": "Xin hỗ trợ trên máy bay.",
+                "status": "not-started",
+                "order": 2
+            },
+            {
+                "id": "l-1013-03",
+                "courseId": "c-1013",
+                "title": "Lesson 3: At the Hotel",
+                "duration": 10,
+                "url": "#",
+                "description": "Nhận phòng & yêu cầu.",
+                "status": "not-started",
+                "order": 3
+            },
+            {
+                "id": "l-1013-04",
+                "courseId": "c-1013",
+                "title": "Lesson 4: Ordering Food",
+                "duration": 9,
+                "url": "#",
+                "description": "Gọi món & góp ý.",
+                "status": "not-started",
+                "order": 4
+            },
+            {
+                "id": "l-1013-05",
+                "courseId": "c-1013",
+                "title": "Lesson 5: Asking Directions",
+                "duration": 10,
+                "url": "#",
+                "description": "Hỏi đường ở thành phố.",
+                "status": "not-started",
+                "order": 5
+            },
+            {
+                "id": "l-1013-06",
+                "courseId": "c-1013",
+                "title": "Lesson 6: Emergencies",
+                "duration": 9,
+                "url": "#",
+                "description": "Tình huống khẩn cấp.",
+                "status": "not-started",
+                "order": 6
+            },
+            {
+                "id": "l-1013-07",
+                "courseId": "c-1013",
+                "title": "Lesson 7: Review",
+                "duration": 11,
+                "url": "#",
+                "description": "Ôn tập du lịch.",
+                "status": "not-started",
+                "order": 7
+            }
+        ]
+    },
+    {
+        "id": "c-1014",
+        "title": "Phrasal Verbs in Context",
+        "description": "Học và ứng dụng phrasal verbs trong giao tiếp và bài viết.",
+        "thumbnail": "https://images.unsplash.com/photo-1523580846011-d3a5bc25702b?q=80&w=1200&auto=format&fit=crop",
+        "level": "Intermediate",
+        "kindOfCourse": "VOCABULARY",
+        "totalLessons": 6,
+        "progress": 0,
+        "status": "not-started",
+        "lessons": [
+            {
+                "id": "l-1014-01",
+                "courseId": "c-1014",
+                "title": "Lesson 1: Daily Phrasals",
+                "duration": 9,
+                "url": "#",
+                "description": "Cụm động từ hằng ngày.",
+                "status": "not-started",
+                "order": 1
+            },
+            {
+                "id": "l-1014-02",
+                "courseId": "c-1014",
+                "title": "Lesson 2: Work Phrasals",
+                "duration": 10,
+                "url": "#",
+                "description": "Công việc & văn phòng.",
+                "status": "not-started",
+                "order": 2
+            },
+            {
+                "id": "l-1014-03",
+                "courseId": "c-1014",
+                "title": "Lesson 3: Travel Phrasals",
+                "duration": 9,
+                "url": "#",
+                "description": "Du lịch & di chuyển.",
+                "status": "not-started",
+                "order": 3
+            },
+            {
+                "id": "l-1014-04",
+                "courseId": "c-1014",
+                "title": "Lesson 4: Study Phrasals",
+                "duration": 10,
+                "url": "#",
+                "description": "Học tập & ôn luyện.",
+                "status": "not-started",
+                "order": 4
+            },
+            {
+                "id": "l-1014-05",
+                "courseId": "c-1014",
+                "title": "Lesson 5: Practice",
+                "duration": 9,
+                "url": "#",
+                "description": "Bài tập ứng dụng.",
+                "status": "not-started",
+                "order": 5
+            },
+            {
+                "id": "l-1014-06",
+                "courseId": "c-1014",
+                "title": "Lesson 6: Review",
+                "duration": 11,
+                "url": "#",
+                "description": "Ôn tập + mini-quiz.",
+                "status": "not-started",
+                "order": 6
+            }
+        ]
+    },
+    {
+        "id": "c-1015",
+        "title": "Listening for IELTS 7.0",
+        "description": "Luyện nghe chuyên sâu theo dạng bài thi IELTS thực tế.",
+        "thumbnail": "https://images.unsplash.com/photo-1523580846011-d3a5bc25702b?q=80&w=1200&auto=format&fit=crop",
+        "level": "Advanced",
+        "kindOfCourse": "IELTS",
+        "totalLessons": 12,
+        "progress": 0,
+        "status": "not-started",
+        "lessons": [
+            {
+                "id": "l-1015-01",
+                "courseId": "c-1015",
+                "title": "Lesson 1: Section 1 Forms",
+                "duration": 10,
+                "url": "#",
+                "description": "Điền form & địa chỉ.",
+                "status": "not-started",
+                "order": 1
+            },
+            {
+                "id": "l-1015-02",
+                "courseId": "c-1015",
+                "title": "Lesson 2: Maps & Plans",
+                "duration": 11,
+                "url": "#",
+                "description": "Bản đồ & sơ đồ.",
+                "status": "not-started",
+                "order": 2
+            },
+            {
+                "id": "l-1015-03",
+                "courseId": "c-1015",
+                "title": "Lesson 3: Multiple Choice",
+                "duration": 10,
+                "url": "#",
+                "description": "Mẹo chọn đáp án.",
+                "status": "not-started",
+                "order": 3
+            },
+            {
+                "id": "l-1015-04",
+                "courseId": "c-1015",
+                "title": "Lesson 4: Tables & Charts",
+                "duration": 9,
+                "url": "#",
+                "description": "Bảng biểu & số liệu.",
+                "status": "not-started",
+                "order": 4
+            },
+            {
+                "id": "l-1015-05",
+                "courseId": "c-1015",
+                "title": "Lesson 5: Notes Completion",
+                "duration": 10,
+                "url": "#",
+                "description": "Điền ghi chú.",
+                "status": "not-started",
+                "order": 5
+            },
+            {
+                "id": "l-1015-06",
+                "courseId": "c-1015",
+                "title": "Lesson 6: Summary",
+                "duration": 9,
+                "url": "#",
+                "description": "Tóm tắt thông tin.",
+                "status": "not-started",
+                "order": 6
+            },
+            {
+                "id": "l-1015-07",
+                "courseId": "c-1015",
+                "title": "Lesson 7: Matching",
+                "duration": 10,
+                "url": "#",
+                "description": "Ghép thông tin.",
+                "status": "not-started",
+                "order": 7
+            },
+            {
+                "id": "l-1015-08",
+                "courseId": "c-1015",
+                "title": "Lesson 8: Sentence Completion",
+                "duration": 9,
+                "url": "#",
+                "description": "Hoàn thành câu.",
+                "status": "not-started",
+                "order": 8
+            },
+            {
+                "id": "l-1015-09",
+                "courseId": "c-1015",
+                "title": "Lesson 9: Distractors",
+                "duration": 10,
+                "url": "#",
+                "description": "Bẫy gây nhiễu.",
+                "status": "not-started",
+                "order": 9
+            },
+            {
+                "id": "l-1015-10",
+                "courseId": "c-1015",
+                "title": "Lesson 10: Accents",
+                "duration": 11,
+                "url": "#",
+                "description": "Anh–Mỹ–Úc–New Zealand.",
+                "status": "not-started",
+                "order": 10
+            },
+            {
+                "id": "l-1015-11",
+                "courseId": "c-1015",
+                "title": "Lesson 11: Mock Test",
+                "duration": 13,
+                "url": "#",
+                "description": "Thi thử canh thời gian.",
+                "status": "not-started",
+                "order": 11
+            },
+            {
+                "id": "l-1015-12",
+                "courseId": "c-1015",
+                "title": "Lesson 12: Review",
+                "duration": 12,
+                "url": "#",
+                "description": "Ôn tập & phân tích lỗi.",
+                "status": "not-started",
+                "order": 12
+            }
+        ]
+    },
+    {
+        "id": "c-1016",
+        "title": "Storytelling & Speaking",
+        "description": "Rèn luyện khả năng kể chuyện và trình bày ý tưởng mạch lạc.",
+        "thumbnail": "https://images.unsplash.com/photo-1523580846011-d3a5bc25702b?q=80&w=1200&auto=format&fit=crop",
+        "level": "Pre-Intermediate",
+        "kindOfCourse": "SPEAKING",
+        "totalLessons": 9,
+        "progress": 0,
+        "status": "not-started",
+        "lessons": [
+            {
+                "id": "l-1016-01",
+                "courseId": "c-1016",
+                "title": "Lesson 1: Narrative Arc",
+                "duration": 9,
+                "url": "#",
+                "description": "Bố cục câu chuyện.",
+                "status": "not-started",
+                "order": 1
+            },
+            {
+                "id": "l-1016-02",
+                "courseId": "c-1016",
+                "title": "Lesson 2: Characters",
+                "duration": 10,
+                "url": "#",
+                "description": "Nhân vật & mục tiêu.",
+                "status": "not-started",
+                "order": 2
+            },
+            {
+                "id": "l-1016-03",
+                "courseId": "c-1016",
+                "title": "Lesson 3: Setting",
+                "duration": 9,
+                "url": "#",
+                "description": "Bối cảnh & thời gian.",
+                "status": "not-started",
+                "order": 3
+            },
+            {
+                "id": "l-1016-04",
+                "courseId": "c-1016",
+                "title": "Lesson 4: Conflict",
+                "duration": 10,
+                "url": "#",
+                "description": "Xung đột & cao trào.",
+                "status": "not-started",
+                "order": 4
+            },
+            {
+                "id": "l-1016-05",
+                "courseId": "c-1016",
+                "title": "Lesson 5: Delivery",
+                "duration": 11,
+                "url": "#",
+                "description": "Giọng điệu & ngôn ngữ cơ thể.",
+                "status": "not-started",
+                "order": 5
+            },
+            {
+                "id": "l-1016-06",
+                "courseId": "c-1016",
+                "title": "Lesson 6: Hooks",
+                "duration": 9,
+                "url": "#",
+                "description": "Mở đầu thu hút.",
+                "status": "not-started",
+                "order": 6
+            },
+            {
+                "id": "l-1016-07",
+                "courseId": "c-1016",
+                "title": "Lesson 7: Visual Aids",
+                "duration": 10,
+                "url": "#",
+                "description": "Dùng hình ảnh & slide.",
+                "status": "not-started",
+                "order": 7
+            },
+            {
+                "id": "l-1016-08",
+                "courseId": "c-1016",
+                "title": "Lesson 8: Q&A",
+                "duration": 9,
+                "url": "#",
+                "description": "Xử lý câu hỏi khó.",
+                "status": "not-started",
+                "order": 8
+            },
+            {
+                "id": "l-1016-09",
+                "courseId": "c-1016",
+                "title": "Lesson 9: Review",
+                "duration": 12,
+                "url": "#",
+                "description": "Ôn tập & trình bày mẫu.",
+                "status": "not-started",
+                "order": 9
+            }
+        ]
+    },
+    {
+        "id": "c-1017",
+        "title": "Idioms & Expressions",
+        "description": "Hiểu và dùng thành ngữ trong các tình huống đời thường.",
+        "thumbnail": "https://images.unsplash.com/photo-1523580846011-d3a5bc25702b?q=80&w=1200&auto=format&fit=crop",
+        "level": "Intermediate",
+        "kindOfCourse": "VOCABULARY",
+        "totalLessons": 8,
+        "progress": 0,
+        "status": "not-started",
+        "lessons": [
+            {
+                "id": "l-1017-01",
+                "courseId": "c-1017",
+                "title": "Lesson 1: Weather Idioms",
+                "duration": 9,
+                "url": "#",
+                "description": "Thành ngữ về thời tiết.",
+                "status": "not-started",
+                "order": 1
+            },
+            {
+                "id": "l-1017-02",
+                "courseId": "c-1017",
+                "title": "Lesson 2: Money Idioms",
+                "duration": 10,
+                "url": "#",
+                "description": "Tiền bạc & chi tiêu.",
+                "status": "not-started",
+                "order": 2
+            },
+            {
+                "id": "l-1017-03",
+                "courseId": "c-1017",
+                "title": "Lesson 3: Work Idioms",
+                "duration": 9,
+                "url": "#",
+                "description": "Công việc bận rộn.",
+                "status": "not-started",
+                "order": 3
+            },
+            {
+                "id": "l-1017-04",
+                "courseId": "c-1017",
+                "title": "Lesson 4: Health Idioms",
+                "duration": 10,
+                "url": "#",
+                "description": "Sức khỏe & cảm xúc.",
+                "status": "not-started",
+                "order": 4
+            },
+            {
+                "id": "l-1017-05",
+                "courseId": "c-1017",
+                "title": "Lesson 5: Food Idioms",
+                "duration": 9,
+                "url": "#",
+                "description": "Ẩm thực & ẩn dụ.",
+                "status": "not-started",
+                "order": 5
+            },
+            {
+                "id": "l-1017-06",
+                "courseId": "c-1017",
+                "title": "Lesson 6: Animal Idioms",
+                "duration": 10,
+                "url": "#",
+                "description": "Động vật & tính cách.",
+                "status": "not-started",
+                "order": 6
+            },
+            {
+                "id": "l-1017-07",
+                "courseId": "c-1017",
+                "title": "Lesson 7: Practice",
+                "duration": 9,
+                "url": "#",
+                "description": "Ứng dụng trong câu.",
+                "status": "not-started",
+                "order": 7
+            },
+            {
+                "id": "l-1017-08",
+                "courseId": "c-1017",
+                "title": "Lesson 8: Review",
+                "duration": 11,
+                "url": "#",
+                "description": "Ôn tập + mini-quiz.",
+                "status": "not-started",
+                "order": 8
+            }
+        ]
+    },
+    {
+        "id": "c-1018",
+        "title": "Grammar for Speaking",
+        "description": "Ngữ pháp thực dụng phục vụ cho giao tiếp tự nhiên.",
+        "thumbnail": "https://images.unsplash.com/photo-1523580846011-d3a5bc25702b?q=80&w=1200&auto=format&fit=crop",
+        "level": "Pre-Intermediate",
+        "kindOfCourse": "GRAMMAR",
+        "totalLessons": 7,
+        "progress": 0,
+        "status": "not-started",
+        "lessons": [
+            {
+                "id": "l-1018-01",
+                "courseId": "c-1018",
+                "title": "Lesson 1: Tenses for Stories",
+                "duration": 9,
+                "url": "#",
+                "description": "Thì để kể chuyện.",
+                "status": "not-started",
+                "order": 1
+            },
+            {
+                "id": "l-1018-02",
+                "courseId": "c-1018",
+                "title": "Lesson 2: Modal Verbs",
+                "duration": 10,
+                "url": "#",
+                "description": "Can, could, should...",
+                "status": "not-started",
+                "order": 2
+            },
+            {
+                "id": "l-1018-03",
+                "courseId": "c-1018",
+                "title": "Lesson 3: Questions",
+                "duration": 9,
+                "url": "#",
+                "description": "Câu hỏi trực tiếp/gián tiếp.",
+                "status": "not-started",
+                "order": 3
+            },
+            {
+                "id": "l-1018-04",
+                "courseId": "c-1018",
+                "title": "Lesson 4: Conditionals",
+                "duration": 10,
+                "url": "#",
+                "description": "If-clauses (0–2).",
+                "status": "not-started",
+                "order": 4
+            },
+            {
+                "id": "l-1018-05",
+                "courseId": "c-1018",
+                "title": "Lesson 5: Reported Speech",
+                "duration": 9,
+                "url": "#",
+                "description": "Thuật lại lời nói.",
+                "status": "not-started",
+                "order": 5
+            },
+            {
+                "id": "l-1018-06",
+                "courseId": "c-1018",
+                "title": "Lesson 6: Relative Clauses",
+                "duration": 10,
+                "url": "#",
+                "description": "Mệnh đề quan hệ.",
+                "status": "not-started",
+                "order": 6
+            },
+            {
+                "id": "l-1018-07",
+                "courseId": "c-1018",
+                "title": "Lesson 7: Review",
+                "duration": 12,
+                "url": "#",
+                "description": "Ôn tập & thực hành.",
+                "status": "not-started",
+                "order": 7
+            }
+        ]
+    },
+    {
+        "id": "c-1019",
+        "title": "Advanced Writing Workshop",
+        "description": "Nâng cao khả năng viết chuyên sâu qua bài tập chỉnh sửa thực tế.",
+        "thumbnail": "https://images.unsplash.com/photo-1523580846011-d3a5bc25702b?q=80&w=1200&auto=format&fit=crop",
+        "level": "Advanced",
+        "kindOfCourse": "WRITING",
+        "totalLessons": 10,
+        "progress": 0,
+        "status": "not-started",
+        "lessons": [
+            {
+                "id": "l-1019-01",
+                "courseId": "c-1019",
+                "title": "Lesson 1: Style & Tone",
+                "duration": 10,
+                "url": "#",
+                "description": "Giọng văn & sắc thái.",
+                "status": "not-started",
+                "order": 1
+            },
+            {
+                "id": "l-1019-02",
+                "courseId": "c-1019",
+                "title": "Lesson 2: Cohesion Devices",
+                "duration": 9,
+                "url": "#",
+                "description": "Liên kết đoạn & câu.",
+                "status": "not-started",
+                "order": 2
+            },
+            {
+                "id": "l-1019-03",
+                "courseId": "c-1019",
+                "title": "Lesson 3: Argumentation",
+                "duration": 11,
+                "url": "#",
+                "description": "Lập luận & phản biện.",
+                "status": "not-started",
+                "order": 3
+            },
+            {
+                "id": "l-1019-04",
+                "courseId": "c-1019",
+                "title": "Lesson 4: Evidence Quality",
+                "duration": 10,
+                "url": "#",
+                "description": "Nguồn trích & dẫn chứng.",
+                "status": "not-started",
+                "order": 4
+            },
+            {
+                "id": "l-1019-05",
+                "courseId": "c-1019",
+                "title": "Lesson 5: Clarity",
+                "duration": 9,
+                "url": "#",
+                "description": "Rõ ràng & súc tích.",
+                "status": "not-started",
+                "order": 5
+            },
+            {
+                "id": "l-1019-06",
+                "courseId": "c-1019",
+                "title": "Lesson 6: Editing Pass 1",
+                "duration": 10,
+                "url": "#",
+                "description": "Biên tập bản nháp.",
+                "status": "not-started",
+                "order": 6
+            },
+            {
+                "id": "l-1019-07",
+                "courseId": "c-1019",
+                "title": "Lesson 7: Editing Pass 2",
+                "duration": 10,
+                "url": "#",
+                "description": "Sửa sâu & cắt gọt.",
+                "status": "not-started",
+                "order": 7
+            },
+            {
+                "id": "l-1019-08",
+                "courseId": "c-1019",
+                "title": "Lesson 8: Peer Review",
+                "duration": 11,
+                "url": "#",
+                "description": "Phản hồi chéo.",
+                "status": "not-started",
+                "order": 8
+            },
+            {
+                "id": "l-1019-09",
+                "courseId": "c-1019",
+                "title": "Lesson 9: Final Draft",
+                "duration": 12,
+                "url": "#",
+                "description": "Hoàn thiện bản cuối.",
+                "status": "not-started",
+                "order": 9
+            },
+            {
+                "id": "l-1019-10",
+                "courseId": "c-1019",
+                "title": "Lesson 10: Review",
+                "duration": 12,
+                "url": "#",
+                "description": "Ôn tập & checklist.",
+                "status": "not-started",
+                "order": 10
+            }
+        ]
+    },
+    {
+        "id": "c-1020",
+        "title": "TOEIC Listening Focus",
+        "description": "Tập trung luyện nghe theo format Part 3 & 4 của kỳ thi TOEIC.",
+        "thumbnail": "https://images.unsplash.com/photo-1523580846011-d3a5bc25702b?q=80&w=1200&auto=format&fit=crop",
+        "level": "Intermediate",
+        "kindOfCourse": "TOEIC",
+        "totalLessons": 8,
+        "progress": 0,
+        "status": "not-started",
+        "lessons": [
+            {
+                "id": "l-1020-01",
+                "courseId": "c-1020",
+                "title": "Lesson 1: Part 3 Strategy",
+                "duration": 10,
+                "url": "#",
+                "description": "Chiến lược đoạn hội thoại.",
+                "status": "not-started",
+                "order": 1
+            },
+            {
+                "id": "l-1020-02",
+                "courseId": "c-1020",
+                "title": "Lesson 2: Part 4 Strategy",
+                "duration": 10,
+                "url": "#",
+                "description": "Chiến lược bài nói đơn.",
+                "status": "not-started",
+                "order": 2
+            },
+            {
+                "id": "l-1020-03",
+                "courseId": "c-1020",
+                "title": "Lesson 3: Paraphrase Traps",
+                "duration": 9,
+                "url": "#",
+                "description": "Bẫy diễn đạt lại.",
+                "status": "not-started",
+                "order": 3
+            },
+            {
+                "id": "l-1020-04",
+                "courseId": "c-1020",
+                "title": "Lesson 4: Distractors",
+                "duration": 9,
+                "url": "#",
+                "description": "Từ gây nhiễu phổ biến.",
+                "status": "not-started",
+                "order": 4
+            },
+            {
+                "id": "l-1020-05",
+                "courseId": "c-1020",
+                "title": "Lesson 5: Vocabulary Sets",
+                "duration": 10,
+                "url": "#",
+                "description": "Chủ điểm từ vựng.",
+                "status": "not-started",
+                "order": 5
+            },
+            {
+                "id": "l-1020-06",
+                "courseId": "c-1020",
+                "title": "Lesson 6: Timing",
+                "duration": 8,
+                "url": "#",
+                "description": "Phân bổ thời gian.",
+                "status": "not-started",
+                "order": 6
+            },
+            {
+                "id": "l-1020-07",
+                "courseId": "c-1020",
+                "title": "Lesson 7: Mock Test",
+                "duration": 12,
+                "url": "#",
+                "description": "Luyện đề thực chiến.",
+                "status": "not-started",
+                "order": 7
+            },
+            {
+                "id": "l-1020-08",
+                "courseId": "c-1020",
+                "title": "Lesson 8: Review",
+                "duration": 11,
+                "url": "#",
+                "description": "Ôn tập & phân tích lỗi.",
+                "status": "not-started",
+                "order": 8
+            }
+        ]
+    },
+    {
+        "id": "c-1021",
+        "title": "Short Stories for Reading",
+        "description": "Rèn đọc hiểu và mở rộng vốn từ qua truyện ngắn song ngữ.",
+        "thumbnail": "https://images.unsplash.com/photo-1523580846011-d3a5bc25702b?q=80&w=1200&auto=format&fit=crop",
+        "level": "Elementary",
+        "kindOfCourse": "READING",
+        "totalLessons": 10,
+        "progress": 0,
+        "status": "not-started",
+        "lessons": [
+            {
+                "id": "l-1021-01",
+                "courseId": "c-1021",
+                "title": "Lesson 1: Fables",
+                "duration": 9,
+                "url": "#",
+                "description": "Truyện ngụ ngôn.",
+                "status": "not-started",
+                "order": 1
+            },
+            {
+                "id": "l-1021-02",
+                "courseId": "c-1021",
+                "title": "Lesson 2: Slice of Life",
+                "duration": 10,
+                "url": "#",
+                "description": "Đời thường giản dị.",
+                "status": "not-started",
+                "order": 2
+            },
+            {
+                "id": "l-1021-03",
+                "courseId": "c-1021",
+                "title": "Lesson 3: Adventure",
+                "duration": 10,
+                "url": "#",
+                "description": "Phiêu lưu ngắn.",
+                "status": "not-started",
+                "order": 3
+            },
+            {
+                "id": "l-1021-04",
+                "courseId": "c-1021",
+                "title": "Lesson 4: Mystery",
+                "duration": 11,
+                "url": "#",
+                "description": "Bí ẩn hấp dẫn.",
+                "status": "not-started",
+                "order": 4
+            },
+            {
+                "id": "l-1021-05",
+                "courseId": "c-1021",
+                "title": "Lesson 5: Humor",
+                "duration": 9,
+                "url": "#",
+                "description": "Hài hước nhẹ nhàng.",
+                "status": "not-started",
+                "order": 5
+            },
+            {
+                "id": "l-1021-06",
+                "courseId": "c-1021",
+                "title": "Lesson 6: Sci-fi Mini",
+                "duration": 10,
+                "url": "#",
+                "description": "Khoa học viễn tưởng ngắn.",
+                "status": "not-started",
+                "order": 6
+            },
+            {
+                "id": "l-1021-07",
+                "courseId": "c-1021",
+                "title": "Lesson 7: Moral & Theme",
+                "duration": 10,
+                "url": "#",
+                "description": "Chủ đề & thông điệp.",
+                "status": "not-started",
+                "order": 7
+            },
+            {
+                "id": "l-1021-08",
+                "courseId": "c-1021",
+                "title": "Lesson 8: Vocabulary Pack",
+                "duration": 9,
+                "url": "#",
+                "description": "Từ vựng theo truyện.",
+                "status": "not-started",
+                "order": 8
+            },
+            {
+                "id": "l-1021-09",
+                "courseId": "c-1021",
+                "title": "Lesson 9: Comprehension",
+                "duration": 11,
+                "url": "#",
+                "description": "Câu hỏi hiểu bài.",
+                "status": "not-started",
+                "order": 9
+            },
+            {
+                "id": "l-1021-10",
+                "courseId": "c-1021",
+                "title": "Lesson 10: Review",
+                "duration": 12,
+                "url": "#",
+                "description": "Ôn tập & quiz.",
+                "status": "not-started",
+                "order": 10
+            }
+        ]
+    },
+    {
+        "id": "c-1022",
+        "title": "English for Meetings",
+        "description": "Chuẩn bị và tham gia cuộc họp bằng tiếng Anh hiệu quả.",
+        "thumbnail": "https://images.unsplash.com/photo-1523580846011-d3a5bc25702b?q=80&w=1200&auto=format&fit=crop",
+        "level": "Upper-Intermediate",
+        "kindOfCourse": "BUSINESS",
+        "totalLessons": 9,
+        "progress": 0,
+        "status": "not-started",
+        "lessons": [
+            {
+                "id": "l-1022-01",
+                "courseId": "c-1022",
+                "title": "Lesson 1: Agenda",
+                "duration": 9,
+                "url": "#",
+                "description": "Chuẩn bị nội dung họp.",
+                "status": "not-started",
+                "order": 1
+            },
+            {
+                "id": "l-1022-02",
+                "courseId": "c-1022",
+                "title": "Lesson 2: Opening",
+                "duration": 10,
+                "url": "#",
+                "description": "Khai mạc & mục tiêu.",
+                "status": "not-started",
+                "order": 2
+            },
+            {
+                "id": "l-1022-03",
+                "courseId": "c-1022",
+                "title": "Lesson 3: Giving Updates",
+                "duration": 10,
+                "url": "#",
+                "description": "Báo cáo tiến độ.",
+                "status": "not-started",
+                "order": 3
+            },
+            {
+                "id": "l-1022-04",
+                "courseId": "c-1022",
+                "title": "Lesson 4: Proposals",
+                "duration": 11,
+                "url": "#",
+                "description": "Đề xuất & thảo luận.",
+                "status": "not-started",
+                "order": 4
+            },
+            {
+                "id": "l-1022-05",
+                "courseId": "c-1022",
+                "title": "Lesson 5: Clarifying",
+                "duration": 9,
+                "url": "#",
+                "description": "Hỏi lại & xác nhận.",
+                "status": "not-started",
+                "order": 5
+            },
+            {
+                "id": "l-1022-06",
+                "courseId": "c-1022",
+                "title": "Lesson 6: Disagreeing Politely",
+                "duration": 10,
+                "url": "#",
+                "description": "Bày tỏ khác biệt.",
+                "status": "not-started",
+                "order": 6
+            },
+            {
+                "id": "l-1022-07",
+                "courseId": "c-1022",
+                "title": "Lesson 7: Action Items",
+                "duration": 9,
+                "url": "#",
+                "description": "Giao việc & deadlines.",
+                "status": "not-started",
+                "order": 7
+            },
+            {
+                "id": "l-1022-08",
+                "courseId": "c-1022",
+                "title": "Lesson 8: Minutes",
+                "duration": 10,
+                "url": "#",
+                "description": "Biên bản cuộc họp.",
+                "status": "not-started",
+                "order": 8
+            },
+            {
+                "id": "l-1022-09",
+                "courseId": "c-1022",
+                "title": "Lesson 9: Review",
+                "duration": 12,
+                "url": "#",
+                "description": "Ôn tập & role-play.",
+                "status": "not-started",
+                "order": 9
+            }
+        ]
+    },
+    {
+        "id": "c-1023",
+        "title": "Spoken English for Kids",
+        "description": "Khóa học nói tiếng Anh vui nhộn dành cho trẻ nhỏ.",
+        "thumbnail": "https://images.unsplash.com/photo-1523580846011-d3a5bc25702b?q=80&w=1200&auto=format&fit=crop",
+        "level": "Pres",
+        "kindOfCourse": "SPEAKING",
+        "totalLessons": 6,
+        "progress": 0,
+        "status": "not-started",
+        "lessons": [
+            {
+                "id": "l-1023-01",
+                "courseId": "c-1023",
+                "title": "Lesson 1: Hello & Names",
+                "duration": 8,
+                "url": "#",
+                "description": "Chào hỏi & giới thiệu.",
+                "status": "not-started",
+                "order": 1
+            },
+            {
+                "id": "l-1023-02",
+                "courseId": "c-1023",
+                "title": "Lesson 2: Colors & Shapes",
+                "duration": 9,
+                "url": "#",
+                "description": "Màu sắc & hình khối.",
+                "status": "not-started",
+                "order": 2
+            },
+            {
+                "id": "l-1023-03",
+                "courseId": "c-1023",
+                "title": "Lesson 3: Animals",
+                "duration": 9,
+                "url": "#",
+                "description": "Tên con vật quen thuộc.",
+                "status": "not-started",
+                "order": 3
+            },
+            {
+                "id": "l-1023-04",
+                "courseId": "c-1023",
+                "title": "Lesson 4: Family",
+                "duration": 10,
+                "url": "#",
+                "description": "Gia đình & bạn bè.",
+                "status": "not-started",
+                "order": 4
+            },
+            {
+                "id": "l-1023-05",
+                "courseId": "c-1023",
+                "title": "Lesson 5: My School",
+                "duration": 9,
+                "url": "#",
+                "description": "Đồ vật & môn học.",
+                "status": "not-started",
+                "order": 5
+            },
+            {
+                "id": "l-1023-06",
+                "courseId": "c-1023",
+                "title": "Lesson 6: Review & Song",
+                "duration": 11,
+                "url": "#",
+                "description": "Ôn tập & hát theo.",
+                "status": "not-started",
+                "order": 6
+            }
+        ]
+    }
+]
