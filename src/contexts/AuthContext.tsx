@@ -20,7 +20,6 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
   const [user, setUser] = useState<SessionUser | null>(null)
   const [loading, setLoading] = useState(true)
 
-  // Đồng bộ user từ cookie readable `user`
   useEffect(() => {
     try {
       const raw = (typeof document !== 'undefined')
