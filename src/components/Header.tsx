@@ -14,7 +14,7 @@ export default function Header() {
   return (
     <header className="sticky top-0 z-50 bg-white/70 backdrop-blur border-b border-gray-100">
       <Container>
-        <div className="flex h-16 items-center justify-between">
+        <div className="flex h-16 items-center justify-between max-sm:mx-2">
           <Link href={user ? '/courses' : '/auth/login'} className="font-semibold tracking-tight">
             Learning<span className="text-blue-600">App</span>
           </Link>

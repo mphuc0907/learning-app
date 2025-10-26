@@ -4,6 +4,7 @@ import CourseCard from '@/components/CourseCard'
 import { useCourses } from '@/hooks/useCourses'
 import { Button, FormControl, Input, InputLabel, MenuItem, Pagination, Select } from '@mui/material'
 import { useEffect, useMemo, useState } from 'react'
+import { CardsGridSkeleton } from '@/components/LoadingSkeleton'
 
 const LEVELS = ['All', 'S', 'Pres', 'TC', 'MTC'] as const
 
@@ -16,9 +17,11 @@ export default function CoursesPage() {
   const totalPages = useMemo(() => data?.totalPages ?? 1, [data])
 
   return (
+
     <Container>
+
       <div className="mb-4 flex flex-col md:flex-row md:items-center gap-3">
-        <div className="flex-1">
+        <div className="flex-1 max-md:mx-2">
           <div className="relative">
             <Input
               className="input"
@@ -38,7 +41,7 @@ export default function CoursesPage() {
           </div>
         </div>
 
-        <div className="md:w-60">
+        <div className="md:w-60 max-md:mx-2">
           <FormControl fullWidth>
             <InputLabel id="demo-simple-select-label">Filter Level</InputLabel>
             <Select
@@ -53,6 +56,7 @@ export default function CoursesPage() {
           </FormControl>
         </div>
       </div>
+      {loading && <CardsGridSkeleton count={9} />}
 
       {loading && (
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
@@ -78,7 +82,7 @@ export default function CoursesPage() {
 
       {!loading && !error && data && data.items.length > 0 && (
         <>
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5">
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5 max-sm:gap-3">
             {data.items.map(course => (
               <CourseCard key={course.id} course={course} />
             ))}

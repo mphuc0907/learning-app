@@ -5,6 +5,7 @@ import { useParams, useRouter } from 'next/navigation'
 import Button from '@mui/material/Button'
 import { useEffect } from 'react'
 import { useProgressCtx } from '@/contexts/ProgressContext'
+import { LessonDetailSkeleton } from '@/components/LoadingSkeleton'
 
 export default function LessonDetailPage() {
   const params = useParams<{ id: string; lessonId: string }>()
@@ -21,19 +22,20 @@ export default function LessonDetailPage() {
     }
   }, [lesson?.id])
 
-  if (loading) return <Container><div className="card p-6">Đang tải...</div></Container>
+  if (loading) return <Container><div className="card p-6 max-md:">Đang tải...</div></Container>
   if (error || !course || !lesson) return <Container><div className="text-red-600">Không tìm thấy bài học.</div></Container>
 
   const handleComplete = () => {
     if (status !== 'completed') setStatus(course.id, lesson.id, 'completed')
   }
+  if (loading) return <Container><LessonDetailSkeleton /></Container>
 
   return (
     <Container>
-      <div className="card p-6">
-        <div className="flex items-start justify-between gap-4">
+      <div className="card p-6 max-md:py-3 max-sm:py-1">
+        <div className="flex items-start justify-between gap-4 max-sm:flex-col">
           <div>
-            <h1 className="text-xl font-semibold">#{lesson.order} — {lesson.title}</h1>
+            <h1 className="text-xl font-semibold max-sm:text-lg">#{lesson.order} — {lesson.title}</h1>
             <div className="text-sm text-gray-500 mt-1">{lesson.duration} phút</div>
           </div>
           <span className={`text-xs px-2 py-1 rounded-full border ${status === 'completed' ? 'bg-emerald-50 text-emerald-700 border-emerald-200' : status === 'in-progress' ? 'bg-amber-50 text-amber-700 border-amber-200' : 'text-gray-600 border-gray-200'}`}>
